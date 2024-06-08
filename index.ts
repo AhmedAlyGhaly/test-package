@@ -1,5 +1,5 @@
 function helloNpm(): string {
-  return "hello Ahmed";
+  return "hello mada";
 }
 
 export default helloNpm;
